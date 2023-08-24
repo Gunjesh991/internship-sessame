@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internship-sessame/static/css/main.f88ce5df.css",
+    "main.js": "/internship-sessame/static/js/main.f7bcdeb2.js",
+    "index.html": "/internship-sessame/index.html",
+    "main.f88ce5df.css.map": "/internship-sessame/static/css/main.f88ce5df.css.map",
+    "main.f7bcdeb2.js.map": "/internship-sessame/static/js/main.f7bcdeb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88ce5df.css",
+    "static/js/main.f7bcdeb2.js"
+  ]
+}
