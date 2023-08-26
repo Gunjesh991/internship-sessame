@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/internship-sessame/static/css/main.f88ce5df.css",
-    "main.js": "/internship-sessame/static/js/main.546bc9c1.js",
+    "main.js": "/internship-sessame/static/js/main.b44619af.js",
     "index.html": "/internship-sessame/index.html",
     "main.f88ce5df.css.map": "/internship-sessame/static/css/main.f88ce5df.css.map",
-    "main.546bc9c1.js.map": "/internship-sessame/static/js/main.546bc9c1.js.map"
+    "main.b44619af.js.map": "/internship-sessame/static/js/main.b44619af.js.map"
   },
   "entrypoints": [
     "static/css/main.f88ce5df.css",
-    "static/js/main.546bc9c1.js"
+    "static/js/main.b44619af.js"
   ]
 }
